@@ -6,8 +6,8 @@ setup(
     description='Python - Dyalog APL interface',
     long_description="This package allows communication between Python and Dyalog APL.",
     url='https://github.com/fastai/pynapl',
-    author='TODO',
-    author_email='TODO',
+    author='Dyalog',
+    author_email='support@dyalog.com',
     license='MIT',
     classifiers=[
         'Development Status :: 3 - Alpha',
